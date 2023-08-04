@@ -1,0 +1,5 @@
+GlobalLemon: {
+    LemonDeath1: "{0} a mangé un citron et est mort."
+	LemonDeath2: "{0} s'est étouffé avec un citron."
+	LemonDeath3: "{0} a été dissout à l'acide citrique."
+}

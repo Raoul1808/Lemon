@@ -6,6 +6,7 @@ Changelog:
 v1.1
 - Ported the mod to tml 1.4.4
 - Added 2 new death messages. Death messages are picked at random.
+- Added French localization
 
 v1.0
 - Initial Release
