@@ -4,11 +4,9 @@ Warning: eating lemons can and will potentially lead to extremely undesirable si
 
 Changelog:
 v1.1
-
 - Ported the mod to tml 1.4.4
 - Added 2 new death messages. Death messages are picked at random.
 
 v1.0
-
 - Initial Release
 - Eating a lemon kills the player.
