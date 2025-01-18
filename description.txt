@@ -1,8 +1,12 @@
 Eating lemons is now 100% more exciting than ever!
 
-Warning: eating lemons can and will potentially lead to extremely undesirable side-effects such as nausea, headaches, muscle fatigue, or even death.
+Warning: eating lemons can and will potentially lead to extremely undesirable side effects such as nausea, headaches, muscle fatigue, or even death.
 
 Changelog:
+v1.1.1
+- Fixed a crash that would occur when "consuming items" due to infinite recursion.
+- I take full responsibility for being the dumbest mod developer in the world.
+
 v1.1
 - Ported the mod to tml 1.4.4
 - Added 2 new death messages. Death messages are picked at random.

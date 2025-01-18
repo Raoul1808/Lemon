@@ -21,7 +21,7 @@ public class GlobalLemon : GlobalItem
                 return true;
             
             default:
-                return player.ConsumeItem(item.type);
+                return true;
         }
     }
 }
